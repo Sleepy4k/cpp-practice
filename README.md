@@ -1,4 +1,4 @@
-# Project Title  
+# C++ Practice
 
 Learn basic syntax for c++
 
